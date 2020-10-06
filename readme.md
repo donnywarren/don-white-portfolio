@@ -2,4 +2,4 @@
 
 This repository contains the content of Don White's portfolio.
 
-testing new repo
+Unfortunately, I lost my commit history while renaming this repo.
