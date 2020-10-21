@@ -478,7 +478,7 @@ footer img {
 }
 
 #contact-link:hover {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 #contact-link-stationary {
@@ -494,6 +494,11 @@ footer img {
   width: 128px;
   transform: translate(-50%, -50%);
   z-index: 200;
+}
+
+#contact-link-stationary:hover {
+  font-weight: 700;
+  font;
 }
 
 /* ====================== MEDIA QUERIES =========================== */
