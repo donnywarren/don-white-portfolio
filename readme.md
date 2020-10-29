@@ -1,5 +1,7 @@
 # Portfolio for Don White
 
-This repository contains the content of Don White's portfolio.
+Welcome.
 
-Unfortunately, I lost my commit history while renaming this repo.
+I built this site with pure HTML, CSS and JavaScript.
+
+The site is fully responsive including unique features for the mobile user.
